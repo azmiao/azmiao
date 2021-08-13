@@ -9,6 +9,10 @@
 <a href="https://github.com/azmiao/destiny2_hoshino_plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
 </a>
+<a href="https://github.com/azmiao/destiny2_hoshino_plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
+</a>
+
 ![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin)](https://github.com/azmiao/destiny2_hoshino_plugin)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=HFUT_cpdaily_auto_for_hoshino)](https://github.com/azmiao/HFUT_cpdaily_auto_for_hoshino)
