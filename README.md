@@ -1,7 +1,7 @@
 ## 这是一只废物中的战斗废物
 
 ## 网名：鹿友のKICO / 平泽唯YUI
-[![AZMIAO's github stats](https://github-readme-stats.vercel.app/api?username=azmiao?theme=buefy)](https://github.com/azmiao/github-readme-stats)
+[![AZMIAO's github stats](https://github-readme-stats.vercel.app/api?username=azmiao&theme=buefy)](https://github.com/azmiao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao)](https://github.com/azmiao/github-readme-stats)
 
