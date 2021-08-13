@@ -1,6 +1,8 @@
-<center>## 这是一只废物中的战斗废物</center>
+## 这是一只废物中的战斗废物
+
 ## 网名：鹿友のKICO / 平泽唯YUI
 [![AZMIAO's github stats](https://github-readme-stats.vercel.app/api?username=azmiao)](https://github.com/azmiao/github-readme-stats?theme=Gradient)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao)](https://github.com/azmiao/github-readme-stats)
 
 ### 京吹置顶图
