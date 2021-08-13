@@ -6,16 +6,32 @@
 ### 京吹置顶图
 ~ BTW:这里会存一些无用的，在初学知识下写的代码~方便学弟学妹们借鉴 ~
 
-<a href="https://github.com/azmiao/destiny2_hoshino_plugin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
-</a>
-<a href="https://github.com/azmiao/destiny2_hoshino_plugin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
-</a>
-
 ![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin)](https://github.com/azmiao/destiny2_hoshino_plugin)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=HFUT_cpdaily_auto_for_hoshino)](https://github.com/azmiao/HFUT_cpdaily_auto_for_hoshino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=umamusume_news)](https://github.com/azmiao/umamusume_news)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrbot&repo=clan_search_tw)](https://github.com/pcrbot/clan_search_tw)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=auto_submit_for_HFUT)](https://github.com/azmiao/auto_submit_for_HFUT)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=bluearchive_hoshino_plugin)](https://github.com/azmiao/bluearchive_hoshino_plugin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=bf_search)](https://github.com/azmiao/bf_search)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=pcrjjc-tw_for_3_server)](https://github.com/azmiao/pcrjjc-tw_for_3_server)
+<a href="https://github.com/azmiao/destiny2_hoshino_plugin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
+</a>
+<a href="https://github.com/azmiao/HFUT_cpdaily_auto_for_hoshino">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=HFUT_cpdaily_auto_for_hoshino" />
+</a>
+
+<a href="https://github.com/azmiao/umamusume_news">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=umamusume_news" />
+</a>
+<a href="https://github.com/pcrbot/clan_search_tw">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pcrbot&repo=clan_search_tw" />
+</a>
+
+<a href="https://github.com/azmiao/auto_submit_for_HFUT">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=auto_submit_for_HFUT" />
+</a>
+<a href="https://github.com/azmiao/bluearchive_hoshino_plugin">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=bluearchive_hoshino_plugin" />
+</a>
+
+<a href="https://github.com/azmiao/bf_search">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=bf_search" />
+</a>
+<a href="https://github.com/azmiao/pcrjjc-tw_for_3_server">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=pcrjjc-tw_for_3_server" />
+</a>
