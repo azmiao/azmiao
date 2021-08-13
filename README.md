@@ -7,7 +7,7 @@
 ~ BTW:这里会存一些无用的，在初学知识下写的代码~方便学弟学妹们借鉴 ~
 
 ![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
-
+<!-- 
 <a href="https://github.com/azmiao/destiny2_hoshino_plugin">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
 </a>
@@ -34,4 +34,4 @@
 </a>
 <a href="https://github.com/azmiao/pcrjjc-tw_for_3_server">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=pcrjjc-tw_for_3_server" />
-</a>
+</a> -->
