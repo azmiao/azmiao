@@ -7,7 +7,7 @@
 ~ BTW:这里会存一些无用的，在初学知识下写的代码~方便学弟学妹们借鉴 ~
 
 <a href="https://github.com/azmiao/destiny2_hoshino_plugin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
 </a>
 <a href="https://github.com/azmiao/destiny2_hoshino_plugin">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=azmiao&repo=destiny2_hoshino_plugin" />
