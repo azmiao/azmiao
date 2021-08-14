@@ -10,6 +10,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=azmiao&theme=buefy&show_icons=true" />
 </a>
 
+----
+
 >你好呀！这是我的Github首页，它好看吗（~~不是~~）
 
 >欢迎访问我的博客哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
@@ -36,3 +38,5 @@
 #### 从 `21-08-14` 开始统计的访问量：
 
 ![这是访问量，显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=azmiao)
+
+----
