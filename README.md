@@ -9,14 +9,14 @@
 
 欢迎访问我的博客<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
 
-这里会存一些无用的，在初学知识下写的简单代码~方便学弟学妹们借鉴
+这里会存一些无用的，在初学知识下写的简单代码，可能有用？
 
-本人没有系统全面的学习过代码，只有些简单的基础知识，呜呜呜
+本人没有系统全面的学习过各种语法，只有些简单的基础知识，呜呜呜
 
-~~所以代码的效率可能非常低下~~
+~~所以代码的运行效率可能非常低下~~
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azmiao)
 
 <a href="https://github.com/azmiao">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
 </a>
