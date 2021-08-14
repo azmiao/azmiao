@@ -6,8 +6,6 @@
 
 ![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
 
-----
-
 <a href="https://github.com/azmiao">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=azmiao&theme=buefy&show_icons=true" />
 </a>
