@@ -7,15 +7,15 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=azmiao&theme=buefy&show_icons=true" />
 </a>
 
->● 你好呀！这是我的Github首页，它好看吗（~~不是~~）
+>●  你好呀！这是我的Github首页，它好看吗（~~不是~~）
 
->● 欢迎访问我的博客哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
+>●  欢迎访问我的博客哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
 
->● 这里会存一些在初学知识下写的简单代码
+>●  这里会存一些在初学知识下写的简单代码
 
->● 我非常的菜，菜的不能再菜了
+>●  我非常的菜，菜的不能再菜了
 
->● ~~因此我代码的运行效率可能非常低下~~
+>●  ~~因此我代码的运行效率可能非常低下~~
 
 ----
 
