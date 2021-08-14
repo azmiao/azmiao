@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/azmiao">
-  <img src="https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/github.png" />
+  <img src="https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/github_readme.bmp" />
   </a>
 </div>
 
