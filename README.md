@@ -26,4 +26,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
 </a>
 
+>常用的东东？
+
+![](https://img.shields.io/badge/-python-yellow)![](https://img.shields.io/badge/-Javascript-orange)
+
+
+>从21-08-14开始统计的访问量：
+
 ![这是访问量，显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=azmiao)
