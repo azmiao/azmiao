@@ -2,7 +2,7 @@
 
 ## 网名：鹿友のKICO / 平泽唯YUI / AZMIAO
 
-<a href="https://github.com/azmiao/github-readme-stats">
+<a href="https://github.com/azmiao">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=azmiao&theme=buefy&show_icons=true" />
 </a>
 
