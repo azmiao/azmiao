@@ -10,6 +10,10 @@
 ### 京吹置顶图
 ~ BTW:这里会存一些无用的，在初学知识下写的代码~方便学弟学妹们借鉴 ~
 
+![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azmiao)
 
-![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
+<a href="https://github.com/azmiao">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
+</a>
