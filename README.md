@@ -1,5 +1,5 @@
 <!-- ## 这是一只废物中的战斗废物 -->
-<p align='center'><font face="等线" size=10>这是一只废物中的战斗废物</font></p>
+<font face="等线" size=10>这是一只废物中的战斗废物</font>
 
 ## 网名：鹿友のKICO / 平泽唯YUI / AZMIAO
 ### 京吹置顶图
