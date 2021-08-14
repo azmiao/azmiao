@@ -1,8 +1,5 @@
 <div align="center">
-  <p><font size=100>我是尺寸</font></p>
-## 这是一只废物中的战斗废物
-## 网名：鹿友のKICO / 平泽唯YUI / AZMIAO
-### 京吹置顶图
+  ![头图](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/github.png)
 </div>
 
 ![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
