@@ -1,5 +1,5 @@
 <!-- ## 这是一只废物中的战斗废物 -->
-<div align='center' ><font size='70'>这是一只废物中的战斗废物</font></div>
+<div align='center'><font size='150'>这是一只废物中的战斗废物</font></div>
 
 ## 网名：鹿友のKICO / 平泽唯YUI / AZMIAO
 
