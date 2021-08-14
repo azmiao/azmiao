@@ -19,8 +19,8 @@
 
 ----
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=azmiao)
-
 <a href="https://github.com/azmiao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
 </a>
+
+![这是访问量，显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=azmiao)
