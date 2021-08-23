@@ -7,7 +7,7 @@
 ![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
 
 <a href="https://github.com/azmiao">
-  <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=azmiao&theme=buefy&show_icons=true" />
+  <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=azmiao&theme=buefy&show_icons=true&count_private=true" />
 </a>
 
 >你好呀！这是我的Github首页，它好看吗（~~不是~~）
