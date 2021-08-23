@@ -33,6 +33,6 @@
 
 从 21-08-14 开始统计的访问量：
 
-![这是访问量，显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=azmiao)
+![这是访问量，如果显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=azmiao)
 
 ----
