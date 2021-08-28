@@ -12,7 +12,7 @@
 
 >你好呀！这是我的Github首页，它好看吗（~~不是~~）
 
->欢迎访问我的博客哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
+>欢迎访问我的个人主页哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
 
 >这里会存一些在初学知识下写的简单无用的代码
 
