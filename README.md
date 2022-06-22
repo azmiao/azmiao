@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/azmiao">
-  <img src="https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/github_readme.bmp" />
+  <img src="https://pic.594594.xyz/i/2022/06/22/62b2f4013fa90.bmp" />
   </a>
 </div>
 
-![京吹](https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/1624068645766.png)
+![京吹](https://pic.594594.xyz/i/2022/06/22/62b2f30cbc2a6.png)
 
 <a href="https://github.com/azmiao">
   <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=azmiao&theme=buefy&show_icons=true&count_private=true" />
