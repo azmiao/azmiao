@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://github.com/azmiao">
-    <p style="color:#00BFFF;font-size:35px">AZMIAO</p>
+    <h1 style="color:#00BFFF">AZMIAO</h1>
   </a>
-  <p style="color:#333333;font-size:20px">这是一只废物中的战斗废物<br>⭐ 京吹置顶图 ⭐</p>
+  <h5 style="color:#333333;font-size:20px">这是一只废物中的战斗废物<br>⭐ 京吹置顶图 ⭐</h5>
 </div>
 
 ![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
