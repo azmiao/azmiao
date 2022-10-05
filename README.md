@@ -1,10 +1,11 @@
 <div align="center">
   <a href="https://github.com/azmiao">
-  <img src="https://pic.594594.xyz/i/2022/06/22/62b2f4013fa90.bmp" />
+    <h1 style="color:#00BFFF">AZMIAO</h1>
   </a>
+  <h2 style="color:#333333">这是一只废物中的战斗废物<br>⭐ 京吹置顶图 ⭐</h2>
 </div>
 
-![京吹](https://pic.594594.xyz/i/2022/06/22/62b2f30cbc2a6.png)
+![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
 
 <a href="https://github.com/azmiao">
   <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=azmiao&theme=buefy&show_icons=true&count_private=true" />
