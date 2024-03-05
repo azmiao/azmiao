@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color:#00BFFF;font-size:35px">⌈ AZMIAO ⌋</h1>
-  <h3 style="color:#333333;font-size:20px">这是一只废物中的战斗废物<br>✨ 京吹置顶图 ✨</h3>
+  <h3 style="color:#333333;font-size:20px">这是一只废物中的战斗废物<br> - 轻音一生推 - <br>✨ 下面是京吹置顶图 ✨</h3>
 </div>
 
 ![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
@@ -13,7 +13,7 @@
 
 >欢迎访问我的个人主页哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
 
->这里会存一些在初学知识下写的简单无用的代码
+>这里会存一些个人写的低水平垃圾代码
 
 >我非常的菜，已经菜的不能再菜了
 
@@ -32,6 +32,6 @@
 
 从 21-08-14 开始统计的访问量：
 
-![这是访问量，显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=azmiao)
+![这是Github访问量，显示不出来可以多刷新几次](https://visitor-badge.glitch.me/badge?page_id=azmiao)
 
 ----
