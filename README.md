@@ -5,11 +5,7 @@
 
 ![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
 
-----
-
 ![总览](https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=405) ![统计](https://github-readme-stats.vercel.app/api?username=azmiao&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=405)
-
-----
 
 <a href="https://github.com/azmiao">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&show_icons=true&layout=compact&custom_title=使用的语言分布~&card_width=435" />
