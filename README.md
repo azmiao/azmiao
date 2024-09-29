@@ -23,8 +23,6 @@
 
 ----
 
-[![趋势图](https://github-readme-activity-graph.vercel.app/graph?username=azmiao&theme=github-light)](https://github.com/azmiao)
+[![贡献图](https://github-readme-activity-graph.vercel.app/graph?username=azmiao&theme=github-light)](https://github.com/azmiao)
 
-<a href="https://github.com/azmiao">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=azmiao&column=8&row=1&margin-w=15&margin-h=15&no-frame=true" />
-</a>
+[![评级图](https://github-profile-trophy.vercel.app/?username=azmiao&column=8&row=1&margin-w=15&margin-h=15&no-frame=true)
