@@ -37,5 +37,5 @@
 > 从 2024-09-29 开始统计的访问量：![这是Github访问量](https://komarev.com/ghpvc/?username=azmiao)
 
 <a href="https://github.com/azmiao">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=azmiao&column=8&margin-w=15&margin-h=15&no-frame=true" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=azmiao&column=8&row=1&margin-w=15&margin-h=15&no-frame=true" />
 </a>
