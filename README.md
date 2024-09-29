@@ -12,7 +12,7 @@
 ----
 
 <a href="https://github.com/azmiao">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact&card_width=435" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&show_icons=true&layout=compact&custom_title=使用的语言分布~&card_width=435" />
 </a>
 
 > 你好呀！这是我的Github首页
