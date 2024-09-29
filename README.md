@@ -7,7 +7,7 @@
 
 ----
 
-![总览](https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=500) ![统计](https://github-readme-stats.vercel.app/api?username=azmiao&show_icons=true&theme=ambient_gradient&locale=cn&custom_title=Github状态统计~&card_width=500)
+![总览](https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=400) ![统计](https://github-readme-stats.vercel.app/api?username=azmiao&show_icons=true&theme=ambient_gradient&locale=cn&custom_title=Github状态统计~&card_width=400)
 
 ----
 
