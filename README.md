@@ -5,33 +5,37 @@
 
 ![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
 
+----
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>
+      <a href="https://github.com/azmiao">
+        <img align="left" src="https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/azmiao">
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=azmiao&show_icons=true&theme=ambient_gradient&locale=cn&custom_title=Github状态统计~&card_width=490" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/azmiao">
-  <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=azmiao&theme=buefy&show_icons=true&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiao&layout=compact&card_width=490" />
 </a>
 
 > 你好呀！这是我的Github首页，它好看吗（~~不是~~）
 
 > 欢迎访问我的个人主页哦：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
 
-> 写的代码很垃圾，见谅
+> 轻音一生推~
 
-> 我非常的菜，已经菜的不能再菜了
+> BTW：我是菜鸡！I'm very vegetable!
 
-> 本页面欢迎小伙伴拿去修改使用哦~⭐
-
-----
+> 从 2024-09-29 开始统计的访问量：![这是Github访问量](https://komarev.com/ghpvc/?username=azmiao)
 
 <a href="https://github.com/azmiao">
-  <img align="left" src="https://github-readme-stats-azmiao.vercel.app/api/top-langs/?username=azmiao&layout=compact" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=azmiao&column=8&margin-w=15&margin-h=15&no-frame=true" />
 </a>
-
-滥竽充数的标签：
-
-![](https://img.shields.io/badge/-python-yellow) ![](https://img.shields.io/badge/-Javascript-orange) ![](https://img.shields.io/badge/-Html-red) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-C%2B%2B-brightgreen) ![](https://img.shields.io/badge/-Android-green) ![](https://img.shields.io/badge/-Windows-yellowgreen) ![](https://img.shields.io/badge/-Magisk-ff69b4)
-![](https://img.shields.io/badge/-%E5%95%8A%E8%BF%99-blueviolet) ![](https://img.shields.io/badge/-%E6%83%B3%E4%B8%8D%E5%87%BA%E6%9D%A5%E4%BA%86-9cf) ![](https://img.shields.io/badge/-%E6%B0%B4%E4%B8%AA%E6%95%B0-lightgrey)
-
-从 2024-09-29 开始统计的访问量：
-
-![这是Github访问量](https://komarev.com/ghpvc/?username=azmiao)
-
-----
