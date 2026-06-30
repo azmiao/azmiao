@@ -5,13 +5,14 @@
 
 [![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)](https://github.com/azmiao)
 
-<a href="https://github.com/azmiao">
-  <img align="left" width="405" src="https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=405" alt="总览" />
-</a>
-
-<a href="https://github.com/azmiao">
-  <img align="right" width="405" src="https://github-stats-extended.vercel.app/api?username=azmiao&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=405" alt="统计" />
-</a>
+<p>
+  <a href="https://github.com/azmiao">
+    <img align="left" width="45%" src="https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=390" alt="总览" />
+  </a>
+  <a href="https://github.com/azmiao">
+    <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api?username=azmiao&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=390" alt="统计" />
+  </a>
+</p>
 
 <br clear="both" />
 
