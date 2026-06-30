@@ -5,7 +5,17 @@
 
 [![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)](https://github.com/azmiao)
 
-[![总览](https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=405)](https://github.com/azmiao) [![统计](https://github-stats-extended.vercel.app/api?username=azmiao&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=405)](https://github.com/azmiao)
+<a href="https://github.com/azmiao">
+  <img align="left" width="405" src="https://streak-stats.demolab.com/?user=azmiao&locale=zh_Hans&date_format=[Y.]n.j&card_width=405" alt="总览" />
+</a>
+
+<a href="https://github.com/azmiao">
+  <img align="right" width="405" src="https://github-stats-extended.vercel.app/api?username=azmiao&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=405" alt="统计" />
+</a>
+
+<br clear="both" />
+
+----
 
 <a href="https://github.com/azmiao">
   <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=azmiao&show_icons=true&layout=compact&custom_title=使用的语言分布~&card_width=435" />
