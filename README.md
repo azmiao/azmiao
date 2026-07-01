@@ -1,9 +1,11 @@
 <div align="center">
-  <h1 style="color:#00BFFF;font-size:35px">⌈ AZMIAO ⌋</h1>
-  <h3 style="color:#333333;font-size:20px"> - 轻音一生推 - <br>✨ 下面是京吹置顶图 ✨</h3>
+  <h1 style="color:#00BFFF;font-size:35px">AZMIAO</h1>
+  <h3 style="color:#333333;font-size:20px"> - 轻音一生推 - <br><br>✨ 下面是京吹置顶图 ✨</h3>
 </div>
 
 [![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)](https://github.com/azmiao)
+
+----
 
 <p>
   <a href="https://github.com/azmiao">
@@ -23,13 +25,13 @@
 </a>
 
 > 你好，祝好！
->
+
 > I'm very vegetable!
->
+
 > 这是一只废物中的战斗废物
->
+
 > 个人主页：<a href="https://www.594594.xyz" target="_blank">轻音时雨</a>
->
+
 > 从 2024-09-29 开始统计的访问量 ![这是Github访问量](https://komarev.com/ghpvc/?username=azmiao)
 
 ----
